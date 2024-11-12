@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
    ```
 
 3. **Open the `index.html` file in your browser**:
-   Simply double-click the `index.html` file to open it locally, or host it on a local server.
+   Simply double-click the `menu.html` file to open it locally, or host it on a local server.
 
 ## How to Play
 
