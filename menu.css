@@ -1,0 +1,58 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://media.gettyimages.com/id/802662418/video/4k-abstract-particles-background-animation-loopable.jpg?s=640x640&k=20&c=2R3dYLO7kAiPj6WBJ1s5dNEUeOf6kX424ckvFjd3fDY='); /* Background Image */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  overflow: hidden;
+}
+
+h1, h2 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 2em;
+}
+
+/* Logo Styling */
+.logo-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
+
+/* Menu Styles */
+.menu-container {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+  border-radius: 10px;
+  width: 70%;
+  max-width: 500px;
+}
+
+.difficulty-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 25px;
+  margin: 10px;
+  font-size: 1.5em;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.difficulty-btn:hover {
+  background-color: #45a049;
+}

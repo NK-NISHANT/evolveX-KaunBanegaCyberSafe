@@ -1,0 +1,174 @@
+{
+    "easy": [
+      {
+        "question": "Q-1) What does 'phishing' mean in cybersecurity?",
+        "options": [
+          "A) A targeted cyber attack on a specific individual",
+          "B) A method of tricking people into revealing sensitive information",
+          "C) A type of virus that infects a computer",
+          "D) An advanced encryption technique"
+        ],
+        "answer": 1,
+        "explanation": "Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers."
+      },
+      {
+        "question": "Q-2) What is a strong password?",
+        "options": [
+          "A) A password with personal information",
+          "B) A password containing only numbers",
+          "C) A password with a mix of letters, numbers, and special characters",
+          "D) A password with only lowercase letters"
+        ],
+        "answer": 2,
+        "explanation": "A strong password is one that includes a mix of letters, numbers, and special characters, making it harder for attackers to guess or crack."
+      },
+      {
+        "question": "Q-3) What does HTTPS stand for?",
+        "options": [
+          "A) HyperText Transfer Protocol Secure",
+          "B) High-Tech Secure Transfer Protocol",
+          "C) Hyperlink Transfer Secure Protocol",
+          "D) HyperText Transmission Secure"
+        ],
+        "answer": 0,
+        "explanation": "HTTPS stands for HyperText Transfer Protocol Secure, which is an encrypted version of HTTP used to secure communication between your browser and the website."
+      },
+      {
+        "question": "Q-4) Which of the following is a common way to protect your online accounts?",
+        "options": [
+          "A) Using the same password for all accounts",
+          "B) Enabling two-factor authentication",
+          "C) Reusing old passwords",
+          "D) Sharing your password with friends"
+        ],
+        "answer": 1,
+        "explanation": "Enabling two-factor authentication (2FA) adds an extra layer of security to your online accounts, requiring both your password and a second method of verification."
+      },
+      {
+        "question": "Q-5) What is malware?",
+        "options": [
+          "A) A type of encryption",
+          "B) A software designed to disrupt or damage a computer system",
+          "C) A method of protecting data",
+          "D) A type of firewall"
+        ],
+        "answer": 1,
+        "explanation": "Malware is software intentionally designed to disrupt, damage, or gain unauthorized access to computer systems."
+      }
+    ],
+    "medium": [
+      {
+        "question": "Q-1) What is the main purpose of a firewall?",
+        "options": [
+          "A) To prevent unauthorized access to or from a private network",
+          "B) To detect and remove viruses from a system",
+          "C) To encrypt sensitive data",
+          "D) To monitor network traffic for suspicious activity"
+        ],
+        "answer": 0,
+        "explanation": "A firewall acts as a barrier to prevent unauthorized access to or from a private network."
+      },
+      {
+        "question": "Q-2) What does a VPN do?",
+        "options": [
+          "A) Encrypts your internet connection to secure your privacy",
+          "B) Blocks malicious websites",
+          "C) Monitors internet traffic",
+          "D) Scans for viruses"
+        ],
+        "answer": 0,
+        "explanation": "A Virtual Private Network (VPN) encrypts your internet connection, protecting your data and privacy while you browse."
+      },
+      {
+        "question": "Q-3) What is the principle of least privilege?",
+        "options": [
+          "A) Giving users the most access possible",
+          "B) Limiting user access to only what is necessary for their job",
+          "C) Allowing users to access all systems on a network",
+          "D) Ensuring users cannot access any systems"
+        ],
+        "answer": 1,
+        "explanation": "The principle of least privilege dictates that users should only have the minimum level of access necessary to perform their tasks."
+      },
+      {
+        "question": "Q-4) What is an example of social engineering?",
+        "options": [
+          "A) Phishing emails",
+          "B) Using a secure password manager",
+          "C) Encrypting files",
+          "D) Installing antivirus software"
+        ],
+        "answer": 0,
+        "explanation": "Phishing emails are a common example of social engineering, where attackers trick individuals into providing sensitive information."
+      },
+      {
+        "question": "Q-5) What is a DDoS attack?",
+        "options": [
+          "A) An attack that infects computers with malware",
+          "B) An attack that encrypts data and demands a ransom",
+          "C) A type of attack that floods a server with excessive traffic to disrupt service",
+          "D) A method of stealing login credentials"
+        ],
+        "answer": 2,
+        "explanation": "A Distributed Denial of Service (DDoS) attack involves overwhelming a server with traffic to make it unavailable to users."
+      }
+    ],
+    "hard": [
+      {
+        "question": "Q-1) What is a zero-day vulnerability?",
+        "options": [
+          "A) A vulnerability that is publicly known but still not patched",
+          "B) A flaw that is found after the release of the software",
+          "C) A security flaw exploited by attackers before a patch is available",
+          "D) A type of social engineering attack"
+        ],
+        "answer": 2,
+        "explanation": "A zero-day vulnerability is an undiscovered flaw in a system that attackers can exploit before a patch is available."
+      },
+      {
+        "question": "Q-2) What is the purpose of an intrusion detection system (IDS)?",
+        "options": [
+          "A) To detect and block unauthorized access to a network",
+          "B) To monitor network traffic for abnormal behavior",
+          "C) To encrypt data in transit",
+          "D) To generate network traffic for testing purposes"
+        ],
+        "answer": 1,
+        "explanation": "An Intrusion Detection System (IDS) monitors network traffic for signs of suspicious activity or security breaches."
+      },
+      {
+        "question": "Q-3) What is an example of a man-in-the-middle attack?",
+        "options": [
+          "A) Intercepting communication between two parties to steal or alter the data",
+          "B) Spoofing a website to trick users into providing personal information",
+          "C) Overloading a server with requests",
+          "D) Infecting a system with ransomware"
+        ],
+        "answer": 0,
+        "explanation": "A man-in-the-middle attack occurs when an attacker intercepts and potentially alters communication between two parties."
+      },
+      {
+        "question": "Q-4) What is SQL injection?",
+        "options": [
+          "A) An attack that exploits vulnerabilities in SQL databases by injecting malicious queries",
+          "B) A method for securing SQL databases",
+          "C) An attack that encrypts data in SQL queries",
+          "D) A method of detecting SQL vulnerabilities"
+        ],
+        "answer": 0,
+        "explanation": "SQL injection is an attack where malicious code is inserted into an SQL query to manipulate a database and steal or corrupt data."
+      },
+      {
+        "question": "Q-5) What does an ethical hacker do?",
+        "options": [
+          "A) Accesses systems without permission to steal data",
+          "B) Tests systems for vulnerabilities to improve security",
+          "C) Creates malware to test systems",
+          "D) Impersonates users to gather information"
+        ],
+        "answer": 1,
+        "explanation": "An ethical hacker uses their skills to test and improve the security of systems by identifying vulnerabilities before malicious hackers can exploit them."
+      }
+    ]
+  }
+  

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kaun Banega Cyber Safe Quiz</title>
+  <link rel="stylesheet" href="quiz.css">
+</head>
+
+<body>
+
+  <!-- Logo in All Corners -->
+  <div class="left-center-logo">
+    <img src="image.png" alt="Kaun Banega Cyber Safe Logo" class="logo">
+  </div>
+
+  <div class="right-center-logo">
+    <img src="image.png" alt="Kaun Banega Cyber Safe Logo" class="logo">
+  </div>
+
+  <!-- Quiz Container -->
+  <div class="quiz-container">
+    <div class="quiz-title">Kaun Banega Cyber Safe</div>
+    
+    <!-- Question Box -->
+    <div class="question-text-container">
+      <div class="question-text">What is Cyber Security?</div>
+    </div>
+
+    <div class="options-container">
+      <button class="option">Option 1</button>
+      <button class="option">Option 2</button>
+      <button class="option">Option 3</button>
+      <button class="option">Option 4</button>
+    </div>
+
+    <div class="timer">
+      Time Left: <span id="time-remaining">30s</span>
+      <div id="timer-bar"></div>
+    </div>
+    
+    <!-- Explanation and Next Button -->
+    <div class="explanation-container" style="display: none;">
+      <div class="explanation-title">Solution</div>
+      <p class="explanation-text">Explanation for the answer.</p>
+    </div>
+    <button class="next-question-btn" style="display: none;">Next Question</button>
+
+    <!-- Go to Menu Button (Initially hidden) -->
+    <button class="go-to-menu-btn" style="display: none;" onclick="goToMenu()">Go to Menu</button>
+
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+
+</html>
