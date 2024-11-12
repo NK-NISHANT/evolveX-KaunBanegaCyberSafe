@@ -114,5 +114,5 @@ nextQuestionBtn.addEventListener('click', () => {
 
 function goToMenu() {
   // Redirect to the menu or main page
-  window.location.href = "menu.html";  // Replace with your actual menu page link
+  window.location.href = "index.html";  // Replace with your actual menu page link
 }
